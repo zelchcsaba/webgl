@@ -1,0 +1,1515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"delta"
+			],
+			[
+				"iT",
+				"iTouch"
+			],
+			[
+				"thres",
+				"thresholdLow"
+			],
+			[
+				"la",
+				"layers"
+			],
+			[
+				"solid",
+				"solidId"
+			],
+			[
+				"world",
+				"worldNormal"
+			],
+			[
+				"q",
+				"qTouch"
+			],
+			[
+				"gir",
+				"gripCount"
+			],
+			[
+				"get",
+				"getCurrentEditTool"
+			],
+			[
+				"vs",
+				"vsTransform"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"nTile",
+				"nTileRows"
+			],
+			[
+				"Mo",
+				"motionSequence"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"m",
+				"mouse"
+			],
+			[
+				"show",
+				"showSimulationTools"
+			],
+			[
+				"best",
+				"bestCrossDiff"
+			],
+			[
+				"to",
+				"toFloat"
+			],
+			[
+				"hits",
+				"hitsBox"
+			],
+			[
+				"shade",
+				"shadeSlice"
+			],
+			[
+				"hist",
+				"hitsSlice"
+			],
+			[
+				"cur",
+				"curveEditor"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"dis",
+				"displayHeight"
+			],
+			[
+				"Serial",
+				"SerialDescriptor"
+			],
+			[
+				"vert",
+				"vertexListOperation"
+			],
+			[
+				"ro",
+				"roll"
+			],
+			[
+				"nea",
+				"nearPlane"
+			],
+			[
+				"on",
+				"onSuccess"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"edit",
+				"editToolAppearance"
+			],
+			[
+				"curve",
+				"curveMaterial"
+			],
+			[
+				"base",
+				"baseOrientation"
+			],
+			[
+				"toF",
+				"toFloat"
+			],
+			[
+				"nor",
+				"normalize"
+			],
+			[
+				"motion",
+				"MotionState"
+			],
+			[
+				"Popup",
+				"PopupFlags"
+			],
+			[
+				"Hovered",
+				"HoveredFlags"
+			],
+			[
+				"Pop",
+				"popupFlags"
+			],
+			[
+				"arr",
+				"arrayOf"
+			],
+			[
+				"picke",
+				"pickedSomething"
+			],
+			[
+				"Density",
+				"densityBEGIN"
+			],
+			[
+				"mous",
+				"mouseViewportPosX"
+			],
+			[
+				"Cam",
+				"CameraControlMode"
+			],
+			[
+				"camer",
+				"CameraOp"
+			],
+			[
+				"Camer",
+				"CameraOp"
+			],
+			[
+				"mouse",
+				"mouseWheel"
+			],
+			[
+				"pick",
+				"pickValid"
+			],
+			[
+				"volume",
+				"volumeDims"
+			],
+			[
+				"colo",
+				"solidColorDepth"
+			],
+			[
+				"sel",
+				"selectedSegmentId"
+			],
+			[
+				"S",
+				"Slice"
+			],
+			[
+				"Seg",
+				"Segmented"
+			],
+			[
+				"Render",
+				"RenderMode"
+			],
+			[
+				"eye",
+				"eyeIcon"
+			],
+			[
+				"gl",
+				"glTexture"
+			],
+			[
+				"Tex",
+				"Texture2D"
+			],
+			[
+				"n",
+				"nStrokes"
+			],
+			[
+				"nSt",
+				"nStrokeIndices"
+			],
+			[
+				"in",
+				"instanceBuffer"
+			],
+			[
+				"COLO",
+				"COLOR_ATTACHMENT0"
+			],
+			[
+				"Butto",
+				"ButtonFlags"
+			],
+			[
+				"segment",
+				"segmentDisplays"
+			],
+			[
+				"ghost",
+				"ghostThreshold"
+			],
+			[
+				"iso",
+				"isoThresholds2"
+			],
+			[
+				"localS",
+				"localStorageSpace"
+			],
+			[
+				"web",
+				"webSocket"
+			],
+			[
+				"mess",
+				"messageId"
+			],
+			[
+				"Float",
+				"Float32Array"
+			],
+			[
+				"Aarr",
+				"ArrayBuffer"
+			],
+			[
+				"v",
+				"v_max"
+			],
+			[
+				"v_current_m",
+				"v_current_min"
+			],
+			[
+				"v_m",
+				"v_min"
+			],
+			[
+				"mo",
+				"modalDialogs"
+			],
+			[
+				"def",
+				"definedExternally"
+			],
+			[
+				"kdim",
+				"KDIM_Fonts"
+			],
+			[
+				"player",
+				"playerName"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"collisio",
+				"collisionRadius"
+			],
+			[
+				"colli",
+				"collisionRadius"
+			],
+			[
+				"re",
+				"remainingTime"
+			],
+			[
+				"key",
+				"keysPressed"
+			],
+			[
+				"Mat",
+				"Mat4Array"
+			],
+			[
+				"light",
+				"lightDiff"
+			],
+			[
+				"norm",
+				"normalize"
+			],
+			[
+				"bone",
+				"boneTrafos"
+			],
+			[
+				"from",
+				"fromMatrix"
+			],
+			[
+				"b",
+				"bestIndex"
+			],
+			[
+				"tra",
+				"trafo"
+			],
+			[
+				"slowpo",
+				"slowpokeEyeTexture"
+			],
+			[
+				"slow",
+				"slowpokeTexture"
+			],
+			[
+				"vertex",
+				"vertexNormal"
+			],
+			[
+				"gorund",
+				"groundMesh"
+			],
+			[
+				"back",
+				"backgroundMesh"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"tex",
+				"texturedProgram"
+			],
+			[
+				"Textured",
+				"texturedQuadGeometry"
+			],
+			[
+				"Game",
+				"gameObject"
+			],
+			[
+				"gr",
+				"greenTriangleMesh"
+			],
+			[
+				"trian",
+				"triangleGeometry"
+			],
+			[
+				"gre",
+				"greenMaterial"
+			],
+			[
+				"tri",
+				"triangleScale"
+			],
+			[
+				"Progra",
+				"ProgramReflection"
+			],
+			[
+				"triangle",
+				"trianglePosition"
+			],
+			[
+				"text",
+				"textheight"
+			],
+			[
+				"line",
+				"lineCount"
+			],
+			[
+				"update",
+				"updateAnno"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"sc",
+				"scrolledbox"
+			],
+			[
+				"cod",
+				"codeboxes"
+			],
+			[
+				"code",
+				"codescroller"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"MAth",
+				"MathJax"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 62 files for \"//z\" (case sensitive)\n\nD:\\Education\\kog9\\kog.is.00-zombie\\client\\src\\main\\kotlin\\GameObject.kt:\n   44        interactors : ArrayList<GameObject>,\n   45        spawn : ArrayList<GameObject>\n   46:       //z ,\n   47:       //z animation : Animation\n   48        ) : Boolean {\n   49: //z      for(iBone in 0 until animation.geometry.nBones)\n   50: //z        gameObject.bones[iBone].set( animation.chain(iBone, t) )\n   51          gameObject.rigging[0].set()\n   52          gameObject.rigging[2].set().\n\n4 matches in 1 file\n\n\nSearching 62 files for \"//z\"\n\nD:\\Education\\kog9\\kog.is.00-zombie\\client\\src\\main\\kotlin\\RiggedGeometry.kt:\n  142      gl.bindBuffer(GL.ELEMENT_ARRAY_BUFFER, indexBuffer)  \n  143  \n  144:     //Z gl.drawElements(GL.TRIANGLES, indexCount, GL.UNSIGNED_SHORT, 0)\n  145      gl.drawElementsInstanced(GL.TRIANGLES, indexCount, GL.UNSIGNED_SHORT, 0, 127)\n  146    }\n\nD:\\Education\\kog9\\kog.is.00-zombie\\client\\src\\main\\kotlin\\Scene.kt:\n   34    val skinningMaterial = Material(skinningProgram)\n   35    init {\n   36: //Z    skinningMaterial[\"colorTexture\"]?.set(Texture2D(gl, \"media/mrem.jpg\"))\n   37      skinningMaterial[\"colorTexture\"]?.set(Texture2D(gl, \"media/barkpaint.png\"))\n   38    }\n   39    val jsonLoader = JsonLoader()\n   40: //Z  val riggedGeometries = jsonLoader.loadRiggedGeometries(gl, \"media/mrem.json\")\n   41    val riggedGeometries = jsonLoader.loadRiggedGeometries(gl, \"media/y6.json\")\n   42  \n   43: //Z  val animation = Animation(gl, \"./media/thriller_part_3.json\", riggedGeometries[0])\n   44  \n   45    val gameObjects = ArrayList<GameObject>()\n   ..\n   90      gameObjects.forEach { \n   91        if(!it.move(dt, t, keysPressed, gameObjects, spawn \n   92:       //Z, animation\n   93        )){\n   94          killList.add(it)\n\n5 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 1816,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "client/src/main/kotlin/RiggedGeometry.kt",
+			"settings":
+			{
+				"buffer_size": 4614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"right_delete",
+					null,
+					"AgAAAL8RAAAAAAAAvxEAAAAAAAABAAAAL78RAAAAAAAAvxEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAvxEAAAAAAAC/EQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					2,
+					"right_delete",
+					null,
+					"AgAAAL8RAAAAAAAAvxEAAAAAAAABAAAAWr8RAAAAAAAAvxEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAvxEAAAAAAAC/EQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"right_delete",
+					null,
+					"AQAAAP8RAAAAAAAA/xEAAAAAAABSAAAAICAgIGdsLmRyYXdFbGVtZW50c0luc3RhbmNlZChHTC5UUklBTkdMRVMsIGluZGV4Q291bnQsIEdMLlVOU0lHTkVEX1NIT1JULCAwLCAxMjcpCg",
+					"AQAAAAAAAAABAAAA/xEAAAAAAABREgAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "client/src/main/kotlin/GameObject.kt",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"right_delete",
+					null,
+					"AQAAACUEAAAAAAAAJQQAAAAAAAAMAAAAICAgICAgLy96ICwK",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAxBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					7,
+					4,
+					"right_delete",
+					null,
+					"BAAAACsEAAAAAAAAKwQAAAAAAAABAAAALysEAAAAAAAAKwQAAAAAAAABAAAALysEAAAAAAAAKwQAAAAAAAABAAAAeisEAAAAAAAAKwQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAKwQAAAAAAAArBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACQEAAAAAAAAJQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAQAAAAAAAAkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					3,
+					"right_delete",
+					null,
+					"AwAAAFYEAAAAAAAAVgQAAAAAAAABAAAAL1YEAAAAAAAAVgQAAAAAAAABAAAAL1YEAAAAAAAAVgQAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAVgQAAAAAAABWBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "  "
+					},
+					"AgAAAFYEAAAAAAAAVwQAAAAAAAAAAAAAVwQAAAAAAABYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgQAAAAAAABWBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					3,
+					"right_delete",
+					null,
+					"AwAAAI4EAAAAAAAAjgQAAAAAAAABAAAAL44EAAAAAAAAjgQAAAAAAAABAAAAL44EAAAAAAAAjgQAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAjgQAAAAAAACOBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					2,
+					"right_delete",
+					null,
+					"AgAAAFYEAAAAAAAAVgQAAAAAAAACAAAAICBWBAAAAAAAAFYEAAAAAAAAAgAAACAg",
+					"AQAAAAAAAAABAAAAVgQAAAAAAABWBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "  "
+					},
+					"AgAAAFYEAAAAAAAAVwQAAAAAAAAAAAAAVwQAAAAAAABYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgQAAAAAAABWBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"right_delete",
+					null,
+					"AQAAAM0EAAAAAAAAzQQAAAAAAACnBAAAICAgICAgICBnYW1lT2JqZWN0LnJpZ2dpbmdbMF0uc2V0KCkKICAgICAgICBnYW1lT2JqZWN0LnJpZ2dpbmdbMl0uc2V0KCkuCiAgICAgICAgICBzY2FsZSgwLjcwN2YsIDAuNzA3ZiwgMC43MDdmKS4KICAgICAgICAgIHJvdGF0ZSgtMC43ODVmLCAwZiwgMWYpLgogICAgICAgICAgdHJhbnNsYXRlKC0xLjVmLCAwZiwgM2YpLgogICAgICAgICAgaW52ZXJ0KCkKICAgICAgICBnYW1lT2JqZWN0LnJpZ2dpbmdbMV0uc2V0KCkuCiAgICAgICAgICBzY2FsZSgwLjcwN2YsIDAuNzA3ZiwgMC43MDdmKS4KICAgICAgICAgIHJvdGF0ZSgwLjc4NWYsIDBmLCAxZikuCiAgICAgICAgICB0cmFuc2xhdGUoMS41ZiwgMGYsIDNmKS4KICAgICAgICAgIGludmVydCgpCiAgICAgICAgZ2FtZU9iamVjdC5yaWdnaW5nWzNdLnNldCgpICAgICAgICAgIAoKICAgICAgICBnYW1lT2JqZWN0LmJvbmVzWzBdLnNldCgpLnJvdGF0ZSgtMS41N2YsIDFmKQogICAgICAgIGZvcihpQm9uZSBpbiAwIHVudGlsIDEyNyl7CiAgICAgICAgICBnYW1lT2JqZWN0LmJvbmVzW2lCb25lKjIrMl0uCiAgICAgICAgICAgIHNldCgpLgogICAgICAgICAgICAvL2ltdWwoZ2VvbWV0cnkucmlnZ2luZ1swXSkuCiAgICAgICAgICAgIC8vbXVsKGdlb21ldHJ5LnJpZ2dpbmdbMV0pLgogICAgICAgICAgICBzY2FsZSgwLjcwN2YsIDAuNzA3ZiwgMC43MDdmKS4KICAgICAgICAgICAgcm90YXRlKDEuMDQ3ZiwgMGYsIDBmLCAxZikuICAgICAgICAgICAgCiAgICAgICAgICAgIHJvdGF0ZSgtMC43ODVmLCAwZiwgMWYpLgogICAgICAgICAgICB0cmFuc2xhdGUoLTEuNWYsIDBmLCAzZikuCiAgICAgICAgICAgIG11bChnYW1lT2JqZWN0LmJvbmVzW2lCb25lXSkKICAgICAgICAgIGdhbWVPYmplY3QuYm9uZXNbaUJvbmUqMisxXS4KICAgICAgICAgICAgc2V0KCkuCiAgICAgICAgICAgIC8vaW11bChnZW9tZXRyeS5yaWdnaW5nWzBdKS4KICAgICAgICAgICAgLy9tdWwoZ2VvbWV0cnkucmlnZ2luZ1syXSkuCiAgICAgICAgICAgIHNjYWxlKDAuNzA3ZiwgMC43MDdmLCAwLjcwN2YpLgogICAgICAgICAgICByb3RhdGUoMS4wNDdmLCAwZiwgMGYsIDFmKS4KICAgICAgICAgICAgcm90YXRlKDAuNzg1ZiwgMGYsIDFmKS4KICAgICAgICAgICAgdHJhbnNsYXRlKDEuNWYsIDBmLCAzZikuCiAgICAgICAgICAgIG11bChnYW1lT2JqZWN0LmJvbmVzW2lCb25lXSkK",
+					"AQAAAAAAAAABAAAAzQQAAAAAAAB0CQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					34,
+					1,
+					"right_delete",
+					null,
+					"AQAAAM0EAAAAAAAAzQQAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAzQQAAAAAAADNBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					40,
+					1,
+					"right_delete",
+					null,
+					"AQAAAHoBAAAAAAAAegEAAAAAAAAeAAAAICB2YWwgcmlnZ2luZyBieSBNYXQ0QXJyYXkoNCkK",
+					"AQAAAAAAAAABAAAAegEAAAAAAACYAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					46,
+					2,
+					"right_delete",
+					null,
+					"AgAAAK8EAAAAAAAArwQAAAAAAAAKAAAAICAgICAgICB9Cq8EAAAAAAAArwQAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAArwQAAAAAAAC5BAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "client/src/main/kotlin/PerspectiveCamera.kt",
+			"settings":
+			{
+				"buffer_size": 2884,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAEICAAAAAAAAQwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgIAAAAAAABCAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "client/src/main/glsl/maxblinn-fs.glsl",
+			"settings":
+			{
+				"buffer_size": 977,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"right_delete",
+					null,
+					"AQAAAH8AAAAAAAAAfwAAAAAAAAAUAAAAaW4gdmVjNCBkZWJ1Z0NvbG9yOwo",
+					"AQAAAAAAAAABAAAAfwAAAAAAAACTAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					13,
+					2,
+					"right_delete",
+					null,
+					"AgAAABcCAAAAAAAAFwIAAAAAAAAoAAAAICBmcmFnbWVudENvbG9yID0gZGVidWdDb2xvcjsKICByZXR1cm47ChcCAAAAAAAAFwIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAFwIAAAAAAAA/AgAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "client/src/main/kotlin/Scene.kt",
+			"settings":
+			{
+				"buffer_size": 3286,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					3,
+					"right_delete",
+					null,
+					"AwAAACUFAAAAAAAAJQUAAAAAAAABAAAALyUFAAAAAAAAJQUAAAAAAAABAAAALyUFAAAAAAAAJQUAAAAAAAABAAAAWg",
+					"AQAAAAAAAAABAAAAJQUAAAAAAAAlBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"right_delete",
+					null,
+					"AQAAAHAFAAAAAAAAcAUAAAAAAABQAAAAICAgIHNraW5uaW5nTWF0ZXJpYWxbImNvbG9yVGV4dHVyZSJdPy5zZXQoVGV4dHVyZTJEKGdsLCAibWVkaWEvYmFya3BhaW50LnBuZyIpKQo",
+					"AQAAAAAAAAABAAAAcAUAAAAAAADABQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					9,
+					3,
+					"right_delete",
+					null,
+					"AwAAAJQFAAAAAAAAlAUAAAAAAAABAAAAL5QFAAAAAAAAlAUAAAAAAAABAAAAL5QFAAAAAAAAlAUAAAAAAAABAAAAWg",
+					"AQAAAAAAAAABAAAAlAUAAAAAAACUBQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					12,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOQFAAAAAAAA5AUAAAAAAABOAAAAICB2YWwgcmlnZ2VkR2VvbWV0cmllcyA9IGpzb25Mb2FkZXIubG9hZFJpZ2dlZEdlb21ldHJpZXMoZ2wsICJtZWRpYS95Ni5qc29uIikK",
+					"AQAAAAAAAAABAAAA5AUAAAAAAAAyBgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					14,
+					3,
+					"right_delete",
+					null,
+					"AwAAAOUFAAAAAAAA5QUAAAAAAAABAAAAL+UFAAAAAAAA5QUAAAAAAAABAAAAL+UFAAAAAAAA5QUAAAAAAAABAAAAWg",
+					"AQAAAAAAAAABAAAA5QUAAAAAAADlBQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					20,
+					2,
+					"right_delete",
+					null,
+					"AgAAABQIAAAAAAAAFAgAAAAAAAABAAAALxQIAAAAAAAAFAgAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAFAgAAAAAAAAUCAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					29,
+					2,
+					"left_delete",
+					null,
+					"AgAAAM8LAAAAAAAAzwsAAAAAAAAJAAAAICAgICAgLy9azgsAAAAAAADOCwAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAA2AsAAAAAAADPCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM0LAAAAAAAAzQsAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAzgsAAAAAAADOCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					4,
+					"left_delete",
+					null,
+					"BAAAAN0LAAAAAAAA3QsAAAAAAAACAAAAICDbCwAAAAAAANsLAAAAAAAAAgAAACAg2QsAAAAAAADZCwAAAAAAAAIAAAAgINgLAAAAAAAA2AsAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA3wsAAAAAAADfCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": ".apply"
+					},
+					"BgAAABsFAAAAAAAAHAUAAAAAAAAAAAAAHAUAAAAAAAAdBQAAAAAAAAAAAAAdBQAAAAAAAB4FAAAAAAAAAAAAAB4FAAAAAAAAHwUAAAAAAAAAAAAAHwUAAAAAAAAgBQAAAAAAAAAAAAAgBQAAAAAAACEFAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwUAAAAAAAAbBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAACEFAAAAAAAAIwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQUAAAAAAAAhBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"right_delete",
+					null,
+					"AQAAACIFAAAAAAAAIgUAAAAAAAABAAAAfQ",
+					"AQAAAAAAAAABAAAAIgUAAAAAAAAiBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"right_delete",
+					null,
+					"AQAAACMFAAAAAAAAIwUAAAAAAAAJAAAAICBpbml0IHsK",
+					"AQAAAAAAAAABAAAAIwUAAAAAAAAsBQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "this"
+					},
+					"BQAAACcFAAAAAAAAKAUAAAAAAAAAAAAAKAUAAAAAAAAoBQAAAAAAABAAAABza2lubmluZ01hdGVyaWFsKAUAAAAAAAApBQAAAAAAAAAAAAApBQAAAAAAACoFAAAAAAAAAAAAACoFAAAAAAAAKwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwUAAAAAAAA3BQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "client/src/main/glsl/skinning-vs.glsl",
+			"settings":
+			{
+				"buffer_size": 924,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"right_delete",
+					null,
+					"AQAAAGwBAAAAAAAAbAEAAAAAAAATAAAAICBtYXQ0IHJpZ2dpbmdbNF07Cg",
+					"AQAAAAAAAAABAAAAbAEAAAAAAAB/AQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					10,
+					1,
+					"right_delete",
+					null,
+					"AQAAANABAAAAAAAA0AEAAAAAAACaAAAAICBpdmVjMyBicmFuY2hlcyA9IGl2ZWMzKGdsX0luc3RhbmNlSUQsIGdsX0luc3RhbmNlSUQqMisxLCBnbF9JbnN0YW5jZUlEKjIrMiApOwovLyAgaXZlYzMgYnJhbmNoZXMgPSBpdmVjMyhnbF9JbnN0YW5jZUlELCBnbF9JbnN0YW5jZUlELCBnbF9JbnN0YW5jZUlEICk7Cg",
+					"AQAAAAAAAAABAAAA0AEAAAAAAABqAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					17,
+					1,
+					"right_delete",
+					null,
+					"BAAAAAIDAAAAAAAAAgMAAAAAAAAbAAAAZ2FtZU9iamVjdC5yaWdnaW5nW3VpLnddICogrwIAAAAAAACvAgAAAAAAABsAAABnYW1lT2JqZWN0LnJpZ2dpbmdbdWkuel0gKiBcAgAAAAAAAFwCAAAAAAAAGwAAAGdhbWVPYmplY3QucmlnZ2luZ1t1aS55XSAqIAkCAAAAAAAACQIAAAAAAAAbAAAAZ2FtZU9iamVjdC5yaWdnaW5nW3VpLnhdICog",
+					"AQAAAAAAAAAEAAAACQIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/XAIAAAAAAAB3AgAAAAAAAAAAAAAAAPC/rwIAAAAAAADKAgAAAAAAAAAAAAAAAPC/AgMAAAAAAAAdAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"right_delete",
+					null,
+					"BAAAAMICAAAAAAAAwgIAAAAAAAAJAAAAYnJhbmNoZXNbigIAAAAAAACKAgAAAAAAAAkAAABicmFuY2hlc1tSAgAAAAAAAFICAAAAAAAACQAAAGJyYW5jaGVzWxoCAAAAAAAAGgIAAAAAAAAJAAAAYnJhbmNoZXNb",
+					"AQAAAAAAAAAEAAAAGgIAAAAAAAAjAgAAAAAAAAAAAAAAAPC/UgIAAAAAAABbAgAAAAAAAAAAAAAAAPC/igIAAAAAAACTAgAAAAAAAAAAAAAAAPC/wgIAAAAAAADLAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"right_delete",
+					null,
+					"BAAAAKsCAAAAAAAAqwIAAAAAAAABAAAAXXwCAAAAAAAAfAIAAAAAAAABAAAAXU0CAAAAAAAATQIAAAAAAAABAAAAXR4CAAAAAAAAHgIAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAAEAAAAHgIAAAAAAAAeAgAAAAAAAAAAAAAAAPC/TQIAAAAAAABNAgAAAAAAAAAAAAAAAPC/fAIAAAAAAAB8AgAAAAAAAAAAAAAAAPC/qwIAAAAAAACrAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					2,
+					"right_delete",
+					null,
+					"AgAAAMMDAAAAAAAAwwMAAAAAAACLAAAAICBkZWJ1Z0NvbG9yW3VpLnhdID0gYmxlbmRXZWlnaHRzWzBdOwogIGRlYnVnQ29sb3JbdWkueV0gPSBibGVuZFdlaWdodHNbMV07CiAgZGVidWdDb2xvclt1aS56XSA9IGJsZW5kV2VpZ2h0c1syXTsgICAgCiAgZGVidWdDb2xvci5hID0gMS4wO8MDAAAAAAAAwwMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAwwMAAAAAAABOBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"right_delete",
+					null,
+					"AQAAANUAAAAAAAAA1QAAAAAAAAAVAAAAb3V0IHZlYzQgZGVidWdDb2xvcjsK",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADqAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					46,
+					1,
+					"right_delete",
+					null,
+					"AQAAAJkDAAAAAAAAmQMAAAAAAAATAAAAKiB2ZWM0KDEsIC0xLCAxLCAxKQ",
+					"AQAAAAAAAAABAAAAmQMAAAAAAACsAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"right_delete",
+					null,
+					"AQAAAJgDAAAAAAAAmAMAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAmAMAAAAAAACYAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"remo",
+				"Remove non Ascii characters (File)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"epxo",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"expo",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"kotlin",
+				"Package Control: Install Package"
+			],
+			[
+				"install kot",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Education/kog9/kog.is.00-zombie/client/src/main",
+		"/D/Education/kog9/kog.is.00-zombie/client/src/main/glsl",
+		"/D/Education/kog9/kog.is.00-zombie/client/src/main/kotlin"
+	],
+	"file_history":
+	[
+		"/D/Education/kogfactory/patches/tree.txt",
+		"/D/Education/kogfactory/.git/MERGE_MSG",
+		"/D/Media/Creative/xb2022.txt",
+		"/D/Projects/2021_brdf/kog.u.pathtracing/kog.sublime-project",
+		"/D/Projects/2021_sponge/egshort/EGSponge/firstsub.tex",
+		"/D/Projects/2021_sponge/egshort/EGSponge/spos.tex",
+		"/D/Projects/2021_sponge/kepsort/yours.tex",
+		"/D/Development/gamma/.git/MERGE_MSG",
+		"/D/Development/gamma/client/client/src/main/kotlin/comms/OperationJsonSerialization.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/geometry/FlipQuadGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/geometry/SegmentedGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/Layer.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/solid-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/curves/CurveEditor.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/SceneResources.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/transform-vs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/segmented-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/tool-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/geometry/JsonLoader.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/gom/Material.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/Volume.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/Marching.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/gui/Segment.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/gui/SceneGui.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/gui/Toolbar.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/toto.txt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/Mouse.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/Intervention.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/EditTool.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/EditToolAppearance.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/Pickings.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/app/App.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/RenderMode.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/show-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/quad-vs.glsl",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/camera/PerspectiveCamera.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/MotionState.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/comms/Messenger.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/gl/Framebuffer.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/state/Curve.kt",
+		"/D/Media/Creative/m2022.txt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/geometry/SubmeshGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/kimgui/dsl.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/kimgui/imgui.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec1Array.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Uniform.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/imgui/imgui.js",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/IVec1.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/IVec1Array.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/VecArray.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/IVecArray.kt",
+		"/D/Media/Barnabas/school/jellemzes_czb.txt",
+		"/D/Development/gamma/client/client/src/main/glsl/curve-fs.glsl",
+		"/D/Development/login-page-demos/node-idx-demo/server.js",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/surgeon/Scene.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/scene/camera/PerspectiveCameraSerializer.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/comms/ServerProgress.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/geometry/CurveGeometry.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec2.kt",
+		"/D/Development/login-page-demos/node-idx-demo/demo/assets/js/profile-view.js",
+		"/D/Development/login-page-demos/node-idx-demo/demo/index.html",
+		"/D/Development/login-page-demos/node-idx-demo/demo/profile.html",
+		"/D/Development/login-page-demos/node-idx-demo/demo/assets/js/profile.js",
+		"/D/Education/kog/kog.s.10-websocket-full/client/src/main/kotlin/App.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec2Array.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/marching-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/slice-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/textured-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/glsl/textured-vs.glsl",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec3.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/kimgui/flags.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Drawable.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/engine/gom/GameObject.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/SegmentedGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Scene.kt",
+		"/D/Development/gamma/client/client/build.gradle.kts",
+		"/D/Development/gamma/client/client/src/main/kotlin/MotionState.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Curve.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/LineSegmentsGeometry.kt",
+		"/D/Education/kog/kog.5.10-character-cpu/webglmath/src/main/kotlin/Vec2.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Pickings.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/PerspectiveCamera.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/CurveGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/JsonLoader.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/SceneResources.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/SceneGui.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Volume.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/ServerProgress.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Messenger.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/OperationJsonSerialization.kt",
+		"/D/Education/kog/kog.5.10-character-cpu/webglmath/src/main/kotlin/Vec3.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/SelectionRange.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/imgui.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/App.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/GameObject.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec4.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Mat4.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/SubmeshGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/flags.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/imgui/imconfig.js",
+		"/D/Development/gamma/client/client/src/main/kotlin/ImGui.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/dsl.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Segment.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Slicing.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Marker.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/WebGL2RenderingContext.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/curve-vs.glsl",
+		"/D/Development/gamma/client/client/src/main/kotlin/EditToolAppearance.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Shader.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/FlipQuadGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/TexturedQuadGeometry.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Framebuffer.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/RenderTargetTexture.kt",
+		"/D/Development/gamma/client/client/src/main/glsl/trace-fs.glsl",
+		"/D/Development/gamma/client/client/src/main/kotlin/Texture2D.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Marching.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/Selection.kt",
+		"/D/Development/login-page-demos/node-idx-demo/package.json",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/ProgramReflection.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/KeyNames.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/imgui/bind-imgui.js",
+		"/D/Development/gamma/client/client/src/main/kotlin/imgui/style.kt",
+		"/D/Media/Travel/2022 Saxon/itiner.txt",
+		"/D/Development/login-page-demos/node-idx-demo/demo/assets/js/options.js",
+		"/D/Education/kog/kog.s.10-websocket-full/server/src/main/kotlin/server.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec4Array.kt",
+		"/D/Development/gamma/client/webglmath/src/main/kotlin/Vec3Array.kt",
+		"/D/Development/gamma/client/client/src/main/kotlin/TriangleGeometry.kt"
+	],
+	"find":
+	{
+		"height": 121.0
+	},
+	"find_in_files":
+	{
+		"height": 347.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//z"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1816,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										226,
+										229
+									],
+									[
+										245,
+										248
+									],
+									[
+										305,
+										308
+									],
+									[
+										369,
+										372
+									],
+									[
+										738,
+										741
+									],
+									[
+										1056,
+										1059
+									],
+									[
+										1278,
+										1281
+									],
+									[
+										1461,
+										1464
+									],
+									[
+										1726,
+										1729
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1063,
+								1063
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 688.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/src/main/kotlin/RiggedGeometry.kt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4606,
+								4606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kotlin/Kotlin.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/src/main/kotlin/GameObject.kt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1199,
+								1199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kotlin/Kotlin.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1628.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/src/main/kotlin/PerspectiveCamera.kt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kotlin/Kotlin.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 645.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/src/main/glsl/maxblinn-fs.glsl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/src/main/kotlin/Scene.kt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kotlin/Kotlin.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2753.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/src/main/glsl/skinning-vs.glsl",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 109.0
+	},
+	"input":
+	{
+		"height": 109.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 276.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Gradle",
+	"project": "kog.sublime-project",
+	"replace":
+	{
+		"height": 214.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
